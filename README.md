@@ -2,7 +2,7 @@
 
 Trieve API
 - API version: 0.5.0
-  - Build date: 2024-03-29T12:28:22.088024700-05:00[America/Chicago]
+  - Build date: 2024-03-29T12:34:27.506198300-05:00[America/Chicago]
   - Generator version: 7.4.0
 
 Trieve OpenAPI Specification. This document describes all of the operations available through the Trieve API.

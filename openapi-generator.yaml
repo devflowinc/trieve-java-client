@@ -17,5 +17,5 @@ additionalProperties:
   dateLibrary: java8  
   java8: true
   useBeanValidation: true
-  serializeBigDecimalAsString: true
+  bigDecimalAsString: true
   repositoryUrl: "https://github.com/devflowinc/trieve-java-client"

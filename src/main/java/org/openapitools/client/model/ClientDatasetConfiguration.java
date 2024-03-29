@@ -52,7 +52,7 @@ import org.openapitools.client.JSON;
 /**
  * ClientDatasetConfiguration
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-03-29T12:28:22.088024700-05:00[America/Chicago]", comments = "Generator version: 7.4.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-03-29T12:34:27.506198300-05:00[America/Chicago]", comments = "Generator version: 7.4.0")
 public class ClientDatasetConfiguration {
   public static final String SERIALIZED_NAME_C_R_E_A_T_E_C_H_U_N_K_F_E_A_T_U_R_E = "CREATE_CHUNK_FEATURE";
   @SerializedName(SERIALIZED_NAME_C_R_E_A_T_E_C_H_U_N_K_F_E_A_T_U_R_E)
