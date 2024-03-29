@@ -1,0 +1,3 @@
+Java API Client Generator
+
+npx @openapitools/openapi-generator-cli generate -i openapi.json -g java -c ./openapi-generator.yaml -o ./ --skip-validate-spec

@@ -1,0 +1,21 @@
+generatorName: java
+outputDir: ./generated-code/java-client
+packageName: com.trieve.client
+packageVersion: 0.5.0
+
+additionalProperties:
+  projectName: trieve_java_client
+  groupId: com.trieve
+  artifactId: trieve-java-client
+  artifactVersion: 0.5.0
+  packageUrl: "https://trieve.ai"
+  packageLicense: "MIT"
+  packageDescription: "Java client for Trieve API generated from its OpenAPI specification using openapi-generator."
+  packageCompany: "Trieve"
+  packageAuthor: "Trieve"
+  packageAuthorEmail: "developers@trieve.ai"
+  dateLibrary: java8  
+  java8: true
+  useBeanValidation: true
+  serializeBigDecimalAsString: true
+  repositoryUrl: "https://github.com/devflowinc/trieve-java-client"
